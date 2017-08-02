@@ -3,7 +3,7 @@ Android library for logging only in debug mode.
 
 DebugLogger library allows you to log only in debug mode. This is important because you don't want to log in your release build. So you don't need to remove all the logs before building your release apk.
 
-###Setup
+####Setup
 
 Add the jitpack.io repository in your project-level build.gradle file:
 ```gradle
@@ -42,7 +42,7 @@ In your AndroidManifest.xml file:
 </application>
 ```
 
-###Usage
+####Usage
 
 In your activity or fragment:
 ```java
