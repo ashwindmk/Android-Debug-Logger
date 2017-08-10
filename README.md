@@ -1,6 +1,9 @@
 # Android-Debug-Logger
 Android library for logging only in debug mode.
 
+[![Release](https://jitpack.io/v/User/Repo.svg)]
+(https://jitpack.io/#ashwindmk/Android-Debug-Logger)
+
 DebugLogger library allows you to log only in debug mode. This is important because you don't want to log in your release build. So you don't need to remove all the logs before building your release apk.
 
 ### Setup
